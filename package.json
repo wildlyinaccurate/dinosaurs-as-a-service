@@ -1,0 +1,22 @@
+{
+  "name": "dinosaurs-as-a-service",
+  "version": "1.0.0",
+  "description": "Dinosaurs as a service!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wildlyinaccurate/dinosaurs-as-a-service.git"
+  },
+  "keywords": [
+    "dinosaurs"
+  ],
+  "author": "Joseph Wynn <joseph@wildlyinaccurate.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildlyinaccurate/dinosaurs-as-a-service/issues"
+  },
+  "homepage": "https://github.com/wildlyinaccurate/dinosaurs-as-a-service",
+  "dependencies": {
+    "dinosaurs": "^1.0.2",
+    "restify": "^2.8.5"
+  }
+}
